@@ -13,6 +13,8 @@ google.com, pub-3903700917814482, DIRECT, f08c47fec0942fa0
 google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
 google.com, pub-5280016153149730, DIRECT, f08c47fec0942fa0
 
+google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
+
 Yandex
 yandex.com, 106820613, DIRECT
 betweendigital.com, 43554, RESELLER
